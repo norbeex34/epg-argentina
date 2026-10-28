@@ -1,0 +1,329 @@
+{
+ "247CanaldeNoticias.ar@SD": {
+  "nombre": "24/7 Canal de Noticias",
+  "fuente": "mi.tv",
+  "id": "ar#24-7-canal-de-noticias"
+ },
+ "A24.ar@SD": {
+  "nombre": "A24 (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#america-24"
+ },
+ "AMCLatinAmerica.us@Panregional": {
+  "nombre": "AMC Latin America (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#amc"
+ },
+ "AmericaTV.ar@SD": {
+  "nombre": "America TV (720p)",
+  "fuente": "mi.tv",
+  "id": "ar#america-2-capital"
+ },
+ "ArgentinisimaSatelital.ar@SD": {
+  "nombre": "Argentinisima Satelital (540p)",
+  "fuente": "mi.tv",
+  "id": "ar#argentinisima-satelital"
+ },
+ "AXNLatinAmerica.us@South": {
+  "nombre": "AXN Latin America South",
+  "fuente": "mi.tv",
+  "id": "co#axn",
+  "respaldo": "Canal.AXN.(Argentina).ar"
+ },
+ "Canal7Jujuy.ar@SD": {
+  "nombre": "Canal 7 Jujuy",
+  "fuente": "mi.tv",
+  "id": "cl#canal-7"
+ },
+ "Canal10Cordoba.ar@SD": {
+  "nombre": "Canal 10 Cordoba",
+  "fuente": "mi.tv",
+  "id": "ar#canal-10-de-cordoba"
+ },
+ "Canal26.ar@SD": {
+  "nombre": "Canal 26 (Argentina) (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#26-tv"
+ },
+ "CanalLuz.ar@SD": {
+  "nombre": "Canal Luz",
+  "fuente": "mi.tv",
+  "id": "ar#canal-luz"
+ },
+ "CanalOrbe21.ar@SD": {
+  "nombre": "Canal Orbe 21",
+  "fuente": "mi.tv",
+  "id": "ar#canal-orbe-21"
+ },
+ "CartoonNetworkLatinAmerica.us@SouthAtlanticHD": {
+  "nombre": "Cartoon Network Latin America",
+  "fuente": "mi.tv",
+  "id": "ar#cartoon-network"
+ },
+ "CartoonNetworkLatinAmerica.us@SouthAtlantic": {
+  "nombre": "Cartoon Network Latin America South Atlantic (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#cartoon-network"
+ },
+ "Cinecanal.us@South": {
+  "nombre": "Cinecanal South",
+  "fuente": "mi.tv",
+  "id": "ar#cinecanal",
+  "respaldo": "Canal.Cinecanal.(Argentina).ar"
+ },
+ "ComedyCentralLatinAmerica.us@Panregional": {
+  "nombre": "Comedy Central Latin America (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#comedy-central"
+ },
+ "DeporTV.ar@SD": {
+  "nombre": "DeporTV (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#dxtv"
+ },
+ "DisneyChannelLatinAmerica.ar@Panregional": {
+  "nombre": "Disney Channel Latin America (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#disney",
+  "respaldo": "Canal.Disney.Channel.(Argentina).ar"
+ },
+ "DisneyChannelLatinAmerica.ar@PanregionalHD": {
+  "nombre": "Disney Channel Latin America Panregional HD (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#disney",
+  "respaldo": "Canal.Disney.Channel.(Argentina).ar"
+ },
+ "DisneyChannelLatinAmerica.ar@South": {
+  "nombre": "Disney Channel Latin America South",
+  "fuente": "mi.tv",
+  "id": "ar#disney",
+  "respaldo": "Canal.Disney.Channel.(Argentina).ar"
+ },
+ "DisneyJrLatinAmerica.ar@South": {
+  "nombre": "Disney Jr. Latin America South (1080p)",
+  "fuente": "epgshare",
+  "id": "Canal.Disney.Junior.(Argentina).ar"
+ },
+ "DisneyJrLatinAmerica.ar@SouthHD": {
+  "nombre": "Disney Jr. Latin America South HD (1080p)",
+  "fuente": "epgshare",
+  "id": "Canal.Disney.Junior.(Argentina).ar"
+ },
+ "ELatinAmerica.us@South": {
+  "nombre": "E! Latin America (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#entertainment"
+ },
+ "ElGourmet.ar@South": {
+  "nombre": "El Gourmet South (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#el-gourmet",
+  "respaldo": "Canal.Elgourmet.ar"
+ },
+ "ElNueve.ar@SD": {
+  "nombre": "El Nueve (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#canal-9"
+ },
+ "ElTrece.ar@SD": {
+  "nombre": "El Trece (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#el-trece"
+ },
+ "Encuentro.ar@SD": {
+  "nombre": "Encuentro (720p)",
+  "fuente": "mi.tv",
+  "id": "ar#encuentro"
+ },
+ "ESPN2LatinAmerica.us@Argentina": {
+  "nombre": "ESPN 2 Latin America Argentina",
+  "fuente": "mi.tv",
+  "id": "cl#espn-2"
+ },
+ "ESPN3LatinAmerica.us@Argentina": {
+  "nombre": "ESPN 3 Latin America Argentina",
+  "fuente": "mi.tv",
+  "id": "cl#espn-3",
+  "respaldo": "Canal.ESPN.3.(Argentina).ar"
+ },
+ "ESPNLatinAmerica.us@Argentina": {
+  "nombre": "ESPN Latin America Argentina",
+  "fuente": "epgshare",
+  "id": "Canal.ESPN.(Argentina).ar"
+ },
+ "ESPNPremium.ar@HD": {
+  "nombre": "ESPN Premium (Argentina) HD (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#fox-sports-premium"
+ },
+ "EuropaEuropa.ar@SD": {
+  "nombre": "Europa Europa (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#europa-europa"
+ },
+ "FoxSports2.ar@SD": {
+  "nombre": "Fox Sports 2 (Argentina) (576i)",
+  "fuente": "mi.tv",
+  "id": "ar#fox-sports-2"
+ },
+ "FoxSports.ar@SD": {
+  "nombre": "Fox Sports (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#fox-sports-hd"
+ },
+ "FXLatinAmerica.us@South": {
+  "nombre": "FX Latin America South",
+  "fuente": "mi.tv",
+  "id": "ar#fx"
+ },
+ "HTV.us@Argentina": {
+  "nombre": "HTV Argentina (720p)",
+  "fuente": "mi.tv",
+  "id": "ar#htv"
+ },
+ "InvestigationDiscoveryLatinAmerica.us@South": {
+  "nombre": "Investigation Discovery Latin America South (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#investigation-discovery"
+ },
+ "MTVLatinAmerica.us@Panregional": {
+  "nombre": "MTV Latin America (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#mtv"
+ },
+ "MusicTop.ar@SD": {
+  "nombre": "MusicTop (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#musictop"
+ },
+ "NETTV.ar@SD": {
+  "nombre": "NET TV (720p)",
+  "fuente": "mi.tv",
+  "id": "ar#net-tv"
+ },
+ "Pakapaka.ar@SD": {
+  "nombre": "Pakapaka (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#pakapaka",
+  "respaldo": "Canal.Pakapaka.ar"
+ },
+ "QuieroMusicaenmiIdioma.ar@SD": {
+  "nombre": "Quiero Musica en mi Idioma (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#quiero"
+ },
+ "SonyChannel.ar@SD": {
+  "nombre": "Sony Channel (Argentina) (1080p)",
+  "fuente": "epgshare",
+  "id": "Canal.Sony.(Argentina).ar"
+ },
+ "Space.ar@South": {
+  "nombre": "Space South (720p)",
+  "fuente": "mi.tv",
+  "id": "ar#space",
+  "respaldo": "Canal.Space.(Argentina).ar"
+ },
+ "StarChannelLatinAmerica.us@South": {
+  "nombre": "Star Channel Latin America South",
+  "fuente": "mi.tv",
+  "id": "ar#fox",
+  "respaldo": "Canal.Star.Channel.(Argentina).ar"
+ },
+ "TCMLatinAmerica.us@South": {
+  "nombre": "TCM Latin America South (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#tcm"
+ },
+ "Telefe.ar@SD": {
+  "nombre": "Telefe (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#telefe"
+ },
+ "TelefeBuenosAires.ar@SD": {
+  "nombre": "Telefe Buenos Aires (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#telefe"
+ },
+ "TelefeInterior.ar@SD": {
+  "nombre": "Telefe Interior (720p)",
+  "fuente": "mi.tv",
+  "id": "ar#telefe"
+ },
+ "TelefeInternacional.ar@SD": {
+  "nombre": "Telefe Internacional (1080p)",
+  "fuente": "mi.tv",
+  "id": "br#telefe-internacional"
+ },
+ "TelefeRosario.ar@SD": {
+  "nombre": "Telefe Rosario (720p) [Geo-blocked]",
+  "fuente": "mi.tv",
+  "id": "ar#telefe-rosario"
+ },
+ "TelefeSalta.ar@SD": {
+  "nombre": "Telefe Salta",
+  "fuente": "mi.tv",
+  "id": "ar#telefe"
+ },
+ "TelefeTucuman.ar@SD": {
+  "nombre": "Telefe Tucuman (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#telefe"
+ },
+ "Telemax.ar@SD": {
+  "nombre": "Telemax (Argentina)",
+  "fuente": "mi.tv",
+  "id": "ar#telemax"
+ },
+ "TelemundoInternacional.us@South": {
+  "nombre": "Telemundo Internacional (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#telemundo"
+ },
+ "TelevisionPublica.ar@SD": {
+  "nombre": "Television Publica (1080p)",
+  "fuente": "epgshare",
+  "id": "Canal.Televisión.Pública.(Argentina).ar"
+ },
+ "TN.ar@SD": {
+  "nombre": "TN (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#tn"
+ },
+ "TNTLatinAmerica.us@Argentina": {
+  "nombre": "TNT Latin America Argentina (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#tnt",
+  "respaldo": "Canal.TNT.(Argentina).ar"
+ },
+ "TNTLatinAmerica.us@South": {
+  "nombre": "TNT Latin America South",
+  "fuente": "mi.tv",
+  "id": "ar#tnt",
+  "respaldo": "Canal.TNT.(Argentina).ar"
+ },
+ "TNTNovelas.us@Panregional": {
+  "nombre": "TNT Novelas (1080p)",
+  "fuente": "epgshare",
+  "id": "Canal.TNT.Novelas.(Argentina).ar"
+ },
+ "TNTSeriesLatinAmerica.us@South": {
+  "nombre": "TNT Series Latin America South",
+  "fuente": "mi.tv",
+  "id": "ar#tnt-series"
+ },
+ "Tooncast.us@Argentina": {
+  "nombre": "Tooncast Argentina (720p)",
+  "fuente": "mi.tv",
+  "id": "ar#tooncast"
+ },
+ "TyCSports.ar@SD": {
+  "nombre": "TyC Sports (1080p)",
+  "fuente": "mi.tv",
+  "id": "ar#tyc-sports"
+ },
+ "Volver.ar@SD": {
+  "nombre": "Volver (576p)",
+  "fuente": "mi.tv",
+  "id": "ar#volver"
+ }
+}

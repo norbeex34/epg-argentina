@@ -1,0 +1,31 @@
+name: Actualizar EPG
+
+on:
+  schedule:
+    # Todos los días a las 06:00 UTC (03:00 en Argentina).
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grabar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Descargar programación
+        run: python tools/grabar_epg.py --dias 4 --url-guia "https://raw.githubusercontent.com/${{ github.repository }}/main/epg/guia.xml.gz"
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add epg/guia.xml.gz epg/ar_epg.m3u
+          git diff --cached --quiet || git commit -m "chore: actualizar guía EPG $(date -u +%F)"
+          git push
